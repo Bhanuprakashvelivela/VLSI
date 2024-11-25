@@ -44,9 +44,6 @@ The circuit is designed to replicate the behavior of a logical OR gate using NMO
 - **Simulation Command:**
   - `.tran 1s`: Transient analysis run for 1 second.
 
-### Simulation Tool
-- The circuit was simulated using **LTspice**, a widely used circuit simulator for transient and AC/DC analysis.
-
 
 ## 3. Analysis
 

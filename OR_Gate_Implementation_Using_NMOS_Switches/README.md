@@ -1,6 +1,6 @@
 # OR Gate Implementation Using NMOS Switches
 
-This document provides an in-depth explanation of the OR gate implementation using NMOS switches. It includes the circuit design, simulation setup, analysis, and verification of results. This project validates the behavior of an OR gate through schematics and plotted graphs.
+This project provides an in-depth explanation of the OR gate implementation using NMOS switches. It includes the circuit design, simulation setup, analysis, and verification of results. This project validates the behavior of an OR gate through schematics and plotted graphs.
 
 
 ## 1. Setup

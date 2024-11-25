@@ -1,0 +1,19 @@
+Direct Newton iteration for .op point succeeded.
+
+Total elapsed time: 0.356 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 18242
+traniter = 18239
+tranpoints = 9082
+accept = 8174
+rejected = 908
+matrix size = 6
+fillins = 0
+solver = Normal
+Avg thread counts: 1.2/1.4/1.4/1.2
+Matrix Compiler1: 218 bytes object code size  0.3/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.3
+

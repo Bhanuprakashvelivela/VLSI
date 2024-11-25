@@ -113,12 +113,12 @@ The simulation results match the OR gate truth table:
 - The simulation results confirm the expected logical behavior, demonstrating that the circuit is operational and valid.
 - This implementation provides a practical example of how digital logic gates can be constructed using analog components such as NMOS transistors.
 
-### Practical Applications
+### 9. Practical Applications
 
 - Understanding how NMOS transistors can be used to design basic logic gates.
 - Provides insights into transient analysis for digital logic simulation.
 
-### Future Enhancements
+### 10. Future Enhancements
 
 - Extend the circuit design to implement other logic gates (e.g., AND, XOR).
 - Optimize transistor sizing for real-world applications.
